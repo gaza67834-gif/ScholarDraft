@@ -1,0 +1,6 @@
+{
+  "name": "ScholarDraft",
+  "description": "AI-Powered Academic Research & Proposal Builder",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
